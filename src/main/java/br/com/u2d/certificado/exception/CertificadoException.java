@@ -1,4 +1,4 @@
-package br.com.swconsultoria.certificado.exception;
+package br.com.u2d.certificado.exception;
 
 /**
  * Exceção a ser lançada na ocorrência de falhas provenientes do Certificado.

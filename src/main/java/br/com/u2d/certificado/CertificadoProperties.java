@@ -1,13 +1,9 @@
-package br.com.swconsultoria.certificado;
-
-/**
- * Created by Samuel on 03/07/2017.
- */
-
-import br.com.swconsultoria.certificado.exception.CertificadoException;
+package br.com.u2d.certificado;
 
 import java.io.*;
 import java.security.Security;
+
+import br.com.u2d.certificado.exception.CertificadoException;
 
 /**
  * Classe para uso exclusivo em caso do Erro Unknow CA

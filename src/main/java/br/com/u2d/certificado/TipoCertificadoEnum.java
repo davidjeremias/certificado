@@ -1,4 +1,4 @@
-package br.com.swconsultoria.certificado;
+package br.com.u2d.certificado;
 
 import java.util.Arrays;
 

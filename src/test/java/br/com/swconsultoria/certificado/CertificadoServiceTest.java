@@ -1,6 +1,9 @@
 package br.com.swconsultoria.certificado;
 
-import br.com.swconsultoria.certificado.exception.CertificadoException;
+import br.com.u2d.certificado.Certificado;
+import br.com.u2d.certificado.CertificadoService;
+import br.com.u2d.certificado.TipoCertificadoEnum;
+import br.com.u2d.certificado.exception.CertificadoException;
 import mockit.Mock;
 import mockit.MockUp;
 import org.junit.jupiter.api.Assertions;

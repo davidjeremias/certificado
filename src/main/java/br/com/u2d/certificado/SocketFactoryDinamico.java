@@ -1,7 +1,7 @@
 /**
  *
  */
-package br.com.swconsultoria.certificado;
+package br.com.u2d.certificado;
 
 import org.apache.commons.httpclient.params.HttpConnectionParams;
 import org.apache.commons.httpclient.protocol.ProtocolSocketFactory;

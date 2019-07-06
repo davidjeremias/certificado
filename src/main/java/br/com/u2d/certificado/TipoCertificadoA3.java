@@ -1,4 +1,4 @@
-package br.com.swconsultoria.certificado;
+package br.com.u2d.certificado;
 
 /**
  * Enum com os possiveis tipos de Certificados A3

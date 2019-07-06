@@ -1,6 +1,9 @@
 package br.com.swconsultoria.certificado;
 
 import org.junit.jupiter.api.Test;
+
+import br.com.u2d.certificado.TipoCertificadoA3;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**

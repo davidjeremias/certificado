@@ -3,6 +3,8 @@ package br.com.swconsultoria.certificado;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import br.com.u2d.certificado.TipoCertificadoEnum;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**

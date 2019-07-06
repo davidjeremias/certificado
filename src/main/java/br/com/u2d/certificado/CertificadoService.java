@@ -1,8 +1,9 @@
-package br.com.swconsultoria.certificado;
+package br.com.u2d.certificado;
 
-import br.com.swconsultoria.certificado.exception.CertificadoException;
 import org.apache.commons.httpclient.protocol.Protocol;
 import org.bouncycastle.asn1.*;
+
+import br.com.u2d.certificado.exception.CertificadoException;
 import sun.security.pkcs11.wrapper.CK_C_INITIALIZE_ARGS;
 import sun.security.pkcs11.wrapper.CK_TOKEN_INFO;
 import sun.security.pkcs11.wrapper.PKCS11;
