@@ -47,6 +47,9 @@ local.properties
 .target
 */target/*
 */target/**
+*/target/java_certificado-2.3-SNAPSHOT.jar
+*/target/maven-archiver/pom.properties
+
 
 # Tern plugin
 .tern-project
