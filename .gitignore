@@ -48,6 +48,7 @@ local.properties
 .target/maven-archiver/pom.properties
 .target/*.jar
 .target
+.target/
 */target/*
 */target/**
 
