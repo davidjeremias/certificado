@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author Samuel Oliveira - samuk.exe@hotmail.com - www.swconsultoria.com.br
+ * @author David Jeremias - u2dtecnologia@gmail.com
  * 
  */
 

@@ -3,7 +3,7 @@ package br.com.u2d.certificado;
 import java.util.Arrays;
 
 /**
- * @author Samuel Oliveira - samuk.exe@hotmail.com
+ * @author David Jeremias - u2dtecnologia@gmail.com
  * Data: 19/05/2019 - 13:02
  */
 public enum TipoCertificadoEnum {

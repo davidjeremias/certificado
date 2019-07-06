@@ -3,7 +3,7 @@ package br.com.u2d.certificado.exception;
 /**
  * Exceção a ser lançada na ocorrência de falhas provenientes do Certificado.
  *
- * @author Samuel Oliveira - samuk.exe@hotmail.com - www.swconsultoria.com.br
+ * @author David Jeremias - u2dtecnologia@gmail.com
  */
 @SuppressWarnings("WeakerAccess")
 public class CertificadoException extends Exception {

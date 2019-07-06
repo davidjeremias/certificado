@@ -3,7 +3,7 @@ package br.com.u2d.certificado;
 /**
  * Enum com os possiveis tipos de Certificados A3
  * 
- * @author Samuel Oliveira
+ * @author David Jeremias
  * 
  */
 public enum TipoCertificadoA3 {
