@@ -1,4 +1,4 @@
-package br.com.swconsultoria.certificado;
+package br.com.u2d.certificado;
 
 import br.com.u2d.certificado.Certificado;
 import br.com.u2d.certificado.CertificadoService;
@@ -19,7 +19,7 @@ import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author Samuel Oliveira - samuk.exe@hotmail.com
+ * @author David Jeremias - u2dtecnologia@gmail.com
  * Data: 19/05/2019 - 16:31
  */
 

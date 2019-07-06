@@ -1,4 +1,4 @@
-package br.com.swconsultoria.certificado;
+package br.com.u2d.certificado;
 
 import org.junit.jupiter.api.Test;
 
@@ -7,8 +7,8 @@ import br.com.u2d.certificado.TipoCertificadoA3;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * @author Samuel Oliveira - samuk.exe@hotmail.com
- * Data: 19/05/2019 - 16:12
+ * @author David Jeremias - u2dtecnologia@gmail.com
+ * Data: 19/05/2019 - 16:31
  */
 class TipoCertificadoA3Test {
 

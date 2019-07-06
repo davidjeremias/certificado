@@ -1,2 +1,10 @@
+br/com/u2d/certificado/CertificadoService.class
+br/com/u2d/certificado/exception/CertificadoException.class
+br/com/u2d/certificado/SocketFactoryDinamico.class
+br/com/u2d/certificado/TipoCertificadoEnum.class
+br/com/u2d/certificado/TipoCertificadoA3.class
+br/com/u2d/certificado/Certificado.class
 br/com/u2d/certificado/CertificadoService$1.class
+br/com/u2d/certificado/CertificadoProperties.class
+br/com/u2d/certificado/SocketFactoryDinamico$NFKeyManager.class
 br/com/u2d/certificado/CertificadoProperties$1.class
